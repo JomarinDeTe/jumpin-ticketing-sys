@@ -1,0 +1,30 @@
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

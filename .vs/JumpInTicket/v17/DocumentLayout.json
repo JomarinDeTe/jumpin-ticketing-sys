@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\views\\ticket\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\views\\ticket\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\views\\ticket\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\views\\ticket\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\views\\employeedashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\views\\employeedashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\webhelper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\webhelper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\webhelper\\mvchelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\webhelper\\mvchelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\dataaccess\\entities\\tbticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|solutionrelative:jumpinticket\\dataaccess\\entities\\tbticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\dataaccess\\entities\\tbsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|solutionrelative:jumpinticket\\dataaccess\\entities\\tbsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\dataaccess\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|solutionrelative:jumpinticket\\dataaccess\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\dataaccess\\entities\\tbprioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|solutionrelative:jumpinticket\\dataaccess\\entities\\tbprioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\dataaccess\\entities\\tbdeparment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|solutionrelative:jumpinticket\\dataaccess\\entities\\tbdeparment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\dataaccess\\entities\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|solutionrelative:jumpinticket\\dataaccess\\entities\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\dataaccess\\context\\jumpinticketscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BD708F-D42B-4B14-BD07-620C33EE6D63}|JumpInTicket\\DataAccess\\DataAccess.csproj|solutionrelative:jumpinticket\\dataaccess\\context\\jumpinticketscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\domain\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|solutionrelative:jumpinticket\\domain\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\domain\\ticketlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|solutionrelative:jumpinticket\\domain\\ticketlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\domain\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|solutionrelative:jumpinticket\\domain\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\domain\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EBE958-2736-4A75-8263-BB6DB531BDBE}|JumpInTicket\\Domain\\Domain.csproj|solutionrelative:jumpinticket\\domain\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941CECA2-0BAE-4789-BD97-E1C6EA1B7B91}|JumpInTicket\\Infrastructure\\Infrastructure.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\infrastructure\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941CECA2-0BAE-4789-BD97-E1C6EA1B7B91}|JumpInTicket\\Infrastructure\\Infrastructure.csproj|solutionrelative:jumpinticket\\infrastructure\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941CECA2-0BAE-4789-BD97-E1C6EA1B7B91}|JumpInTicket\\Infrastructure\\Infrastructure.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\infrastructure\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941CECA2-0BAE-4789-BD97-E1C6EA1B7B91}|JumpInTicket\\Infrastructure\\Infrastructure.csproj|solutionrelative:jumpinticket\\infrastructure\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941CECA2-0BAE-4789-BD97-E1C6EA1B7B91}|JumpInTicket\\Infrastructure\\Infrastructure.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\infrastructure\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941CECA2-0BAE-4789-BD97-E1C6EA1B7B91}|JumpInTicket\\Infrastructure\\Infrastructure.csproj|solutionrelative:jumpinticket\\infrastructure\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\jumpinticket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{914BEA30-FFA9-4EFD-97A2-4271E547D63F}|JumpInTicket\\JumpInTicket\\JumpInTicket.csproj|solutionrelative:jumpinticket\\jumpinticket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0047989-B946-477F-A0CA-3B7B8EC9E3C8}|JumpInTicket\\Utility\\Utility.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\utility\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0047989-B946-477F-A0CA-3B7B8EC9E3C8}|JumpInTicket\\Utility\\Utility.csproj|solutionrelative:jumpinticket\\utility\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A87AA52-F76C-4DEC-B904-A477CA694131}|JumpInTicket\\Service\\Service.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\service\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A87AA52-F76C-4DEC-B904-A477CA694131}|JumpInTicket\\Service\\Service.csproj|solutionrelative:jumpinticket\\service\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A87AA52-F76C-4DEC-B904-A477CA694131}|JumpInTicket\\Service\\Service.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A87AA52-F76C-4DEC-B904-A477CA694131}|JumpInTicket\\Service\\Service.csproj|solutionrelative:jumpinticket\\service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A87AA52-F76C-4DEC-B904-A477CA694131}|JumpInTicket\\Service\\Service.csproj|c:\\users\\jomarin.terre\\videos\\jumpinticket\\jumpinticket\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A87AA52-F76C-4DEC-B904-A477CA694131}|JumpInTicket\\Service\\Service.csproj|solutionrelative:jumpinticket\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Ticket\\Details.cshtml",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Views\\Ticket\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Ticket\\Details.cshtml",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Views\\Ticket\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T09:24:42.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Ticket\\Create.cshtml",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Views\\Ticket\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Ticket\\Create.cshtml",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Views\\Ticket\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T09:24:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Ticket\\List.cshtml",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Views\\Ticket\\List.cshtml",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Ticket\\List.cshtml",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Views\\Ticket\\List.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T09:23:54.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\EmployeeDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Views\\EmployeeDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\EmployeeDashboard\\Index.cshtml",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Views\\EmployeeDashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T09:23:48.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T09:23:44.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Startup.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Startup.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Startup.cs",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Startup.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwHwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:54:04.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:49:36.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Program.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Program.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Program.cs",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:54:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MvcHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\WebHelper\\MvcHelper.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\WebHelper\\MvcHelper.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\WebHelper\\MvcHelper.cs",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\WebHelper\\MvcHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:53:47.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\WebHelper\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\WebHelper\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\WebHelper\\SessionExtensions.cs",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\WebHelper\\SessionExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:53:48.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:50:00.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\appsettings.json",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\appsettings.json",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\appsettings.json",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T12:45:18.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TbTicket.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbTicket.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\DataAccess\\Entities\\TbTicket.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbTicket.cs",
+              "RelativeToolTip": "JumpInTicket\\DataAccess\\Entities\\TbTicket.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TbSubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbSubCategory.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\DataAccess\\Entities\\TbSubCategory.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbSubCategory.cs",
+              "RelativeToolTip": "JumpInTicket\\DataAccess\\Entities\\TbSubCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\DataAccess\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\Ticket.cs",
+              "RelativeToolTip": "JumpInTicket\\DataAccess\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:14:54.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tbPriorityLevel.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\tbPriorityLevel.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\DataAccess\\Entities\\tbPriorityLevel.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\tbPriorityLevel.cs",
+              "RelativeToolTip": "JumpInTicket\\DataAccess\\Entities\\tbPriorityLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:19.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TbDeparment.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbDeparment.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\DataAccess\\Entities\\TbDeparment.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbDeparment.cs",
+              "RelativeToolTip": "JumpInTicket\\DataAccess\\Entities\\TbDeparment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:07.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TbCategory.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbCategory.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\DataAccess\\Entities\\TbCategory.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Entities\\TbCategory.cs",
+              "RelativeToolTip": "JumpInTicket\\DataAccess\\Entities\\TbCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:09:51.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\UserRoleModel.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Domain\\UserRoleModel.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\UserRoleModel.cs",
+              "RelativeToolTip": "JumpInTicket\\Domain\\UserRoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:14:34.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketListModel.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\TicketListModel.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Domain\\TicketListModel.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\TicketListModel.cs",
+              "RelativeToolTip": "JumpInTicket\\Domain\\TicketListModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:14:29.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\AddressModel.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Domain\\AddressModel.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\AddressModel.cs",
+              "RelativeToolTip": "JumpInTicket\\Domain\\AddressModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:14:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JumpInTicket\\JumpInTicket\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\JumpInTicket\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JumpInTicket\\JumpInTicket\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T13:01:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JumpInTicketsContext.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Context\\JumpInTicketsContext.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\DataAccess\\Context\\JumpInTicketsContext.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\DataAccess\\Context\\JumpInTicketsContext.cs",
+              "RelativeToolTip": "JumpInTicket\\DataAccess\\Context\\JumpInTicketsContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:52:35.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Service\\UserService.cs",
+              "RelativeToolTip": "JumpInTicket\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:53:21.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Infrastructure\\IUserService.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Infrastructure\\IUserService.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Infrastructure\\IUserService.cs",
+              "RelativeToolTip": "JumpInTicket\\Infrastructure\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:53:06.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Infrastructure\\ITicketService.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Infrastructure\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Infrastructure\\ITicketService.cs",
+              "RelativeToolTip": "JumpInTicket\\Infrastructure\\ITicketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:53:08.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Domain\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Domain\\LoginModel.cs",
+              "RelativeToolTip": "JumpInTicket\\Domain\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:52:26.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Utility\\Enums.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Utility\\Enums.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Utility\\Enums.cs",
+              "RelativeToolTip": "JumpInTicket\\Utility\\Enums.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:53:31.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Infrastructure\\ICommonService.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Infrastructure\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Infrastructure\\ICommonService.cs",
+              "RelativeToolTip": "JumpInTicket\\Infrastructure\\ICommonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:53:05.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Service\\TicketService.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Service\\TicketService.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Service\\TicketService.cs",
+              "RelativeToolTip": "JumpInTicket\\Service\\TicketService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:44:38.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommonService.cs",
+              "DocumentMoniker": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Service\\CommonService.cs",
+              "RelativeDocumentMoniker": "JumpInTicket\\Service\\CommonService.cs",
+              "ToolTip": "C:\\Users\\jomarin.terre\\Videos\\JumpInTicket\\JumpInTicket\\Service\\CommonService.cs",
+              "RelativeToolTip": "JumpInTicket\\Service\\CommonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:44:33.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

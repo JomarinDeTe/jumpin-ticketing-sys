@@ -1,0 +1,68 @@
+﻿@{
+}
+
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Create Ticket</h4>
+                <p class="card-description">
+                    Support ticket
+                </p>
+                <form class="forms-sample">
+                    <div class="form-group">
+                        <label for="exampleInputUsername1">
+                            Department
+                        </label>
+                        <select class="form-control" id="create-ticket-department">
+                            <option>Learning & Development</option>
+                            <option>HR</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputUsername1">
+                            Category
+                        </label>
+                        <select class="form-control" id="create-ticket-category">
+                            <option>Course Development</option>
+                            <option>System Development</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputUsername1">
+                            Sub-Category
+                        </label>
+                        <select class="form-control" id="create-ticket-sub-category">
+                            <option>Data Extraction</option>
+                            <option>CMS Issue</option>
+                            <option>Migration</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">
+                            Due Date<small class="card-description">(Optional)</small>
+                        </label>
+                        <input type="date" class="form-control" id="exampleInputEmail1" placeholder="Title">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Title</label>
+                        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Title">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Description <small class="card-description">(Optional)</small></label>
+                        <textarea class="form-control" rows="4"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+  
+@section scripts{
+    <script>
+        $("#create-ticket-category").select2();
+        $('#create-ticket-sub-category').select2();
+        $('#create-ticket-department').select2();
+    </script>
+}

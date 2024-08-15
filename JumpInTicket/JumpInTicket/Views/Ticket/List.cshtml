@@ -1,0 +1,71 @@
+﻿@model JumpInTicket.Models.TicketListViewModel
+@{
+}
+@section styles{ 
+<style>
+    .dtsb-search {
+        display:none!important;
+    }
+</style>
+}
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+  
+                <p class="card-title">Tickets</p>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="table-responsive">
+                            <table id="tickets-table" class="display expandable-table" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>Ticket#</th>
+                                        <th>Status</th>
+                                        <th>Due Date</th>
+                                        <th>Title</th>
+                                        <th>Category</th>
+                                        <th>Priority</th>
+                                        <th>Date Created</th>
+                                        <th>Assign To</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.List)
+                                    {
+                                        var rowStyle = "";
+                                        if(item.DueDate< DateTime.Today)
+                                        {
+                                            rowStyle = "table-danger";
+                                        }else if(item.DueDate == DateTime.Today)
+                                        {
+                                            rowStyle = "table-warning";
+                                        }
+                                        else
+                                        {
+                                            rowStyle = "";
+                                        }
+                                        <tr class="@rowStyle">
+                                            <td>@item.id</td>
+                                            <td>@item.StatusName</td>
+                                            <td>@(item.DueDate.HasValue ? item.DueDate.Value.ToString("MMM d, yyyy"):"")</td>
+                                            <td>@item.TicketTitle</td>
+                                            <td>@item.CategoryName</td>
+                                            <td>@item.PriorityName</td>
+                                            <td>@(item.DateCreated.HasValue ? item.DateCreated.Value.ToString("MMM d, yyyy h:m:ss tt"): "")</td>
+                                            <td>@item.AssignedTo</td>
+                                            <td><a href="javascript:void(0);"><i class="mdi mdi-24px mdi-eye text-muted"></i></a></td>
+                                        </tr>
+
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

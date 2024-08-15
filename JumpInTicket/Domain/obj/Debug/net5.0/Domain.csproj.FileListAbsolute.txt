@@ -1,0 +1,30 @@
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Utility.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Utility.pdb
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\hsantos\OneDrive - A. Magsaysay, Inc\Documents\Projects\Azure Projects\JumpInTicket\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Utility.dll
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\bin\Debug\net5.0\Utility.pdb
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.csproj.Up2Date
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\jomarin.terre\Videos\JumpInTicket\JumpInTicket\Domain\obj\Debug\net5.0\ref\Domain.dll
